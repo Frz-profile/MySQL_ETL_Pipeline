@@ -7,8 +7,6 @@ A beginner's guide to extracting data from a CSV file, transforming it, and load
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project demonstrates a simple ETL (Extract, Transform, Load) process where data is extracted from a CSV file, transformed (e.g., data cleaning and formatting), and loaded into a MySQL database. It's a great introduction to data engineering concepts and practices.
@@ -44,9 +42,3 @@ project-directory/
     ```bash
     python data_pipeline.py
     ```
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
