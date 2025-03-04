@@ -9,7 +9,7 @@ A beginner's guide to extracting data from a CSV file, transforming it, and load
 - [Usage](#usage)
 
 ## Introduction
-This project demonstrates a simple ETL (Extract, Transform, Load) process where data is extracted from a CSV file, transformed (e.g., data cleaning and formatting), and loaded into a MySQL database. It's a great introduction to data engineering concepts and practices.
+This project demonstrates a simple ETL (Extract, Transform, Load) process where data is extracted from a CSV file, transformed (e.g., data cleaning and formatting), and loaded into a MySQL database. 
 
 ## Project Structure
 project-directory/
@@ -22,11 +22,11 @@ project-directory/
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/Frz-profile/MySQL_ETL_Pipeline.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd repository-name
+    cd MySQL_ETL_Pipeline
     ```
 3. Install the required Python libraries:
     ```bash
